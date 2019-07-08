@@ -1,0 +1,14 @@
+enterprise edition git yearly cost 39$-per year.
+premier is 99$ per year.
+latest version 2.22.0 released one month ago june 8 2019.
+
+Repositary
+
+Both Git and GitHub refer to this as a repository, or “repo” for short, 
+a digital directory or storage space where you can access your project, 
+its files, and all the versions of its files that Git saves
+
+
+hemanth-pinjala
+pk.hemanth@outlook.com
+Cse512@#
